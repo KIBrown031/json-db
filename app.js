@@ -66,7 +66,7 @@ app.get('/', (req, res) => {
                  }
         })
         
-        res.status(500).json(result)  // res.download('junk.json')
+        res.status(200).json(result)  // res.download('junk.json')
     
     } else {
         res.status(500).json(jsonData)  // res.download('junk.json')
