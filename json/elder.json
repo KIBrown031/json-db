@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Kirkland, Tim",
+    "Phone": "(703) 270-8381",
+    "Address": "7004 Wade Avenue Clinton, MD 20735 ",
+    "Email": "timandwan@verizon.net",
+    "Elder": true
+  },
+  {
+    "Name": "Hughes, Dennis",
+    "Phone": "(202) 710-1074",
+    "Address": "6700 Briarcliff Drive Clinton, MD 20735 ",
+    "Email": "hughesdr@gmail.com",
+    "Elder": true
+  },
+  {
+    "Name": "Vann, Devon",
+    "Phone": "(301) 674-3279",
+    "Address": "8600 Kult Lane Fort Washington, MD 20744 ",
+    "Email": "devonvann50@gmail.com",
+    "Elder": true
+  },
+  {
+    "Name": "Brown, Keith",
+    "Phone": "(301) 343-0773",
+    "Address": "9606 Midland Turn Upper Marlboro, MD 20772 ",
+    "Email": "kibrown031@gmail.com",
+    "Elder": true
+  },
+  {
+    "Name": "Holmes, Ivan",
+    "Phone": "(301) 535-4197",
+    "Address": "11003 Abood Court Upper Marlboro, MD 20772 ",
+    "Email": "ivanwholmes@gmail.com",
+    "Elder": true
+  },
+  {
+    "Name": "Bolden, George",
+    "Phone": "(301) 518-2221",
+    "Address": "3504 Manis Road Clinton, MD 20735 ",
+    "Email": "gebo1955@verizon.net",
+    "Elder": true
+  },
+  {
+    "Name": "Wilkinson, James",
+    "Phone": "(301) 775-7183",
+    "Address": "9303 Gwynndale Drive Clinton, MD 20735 ",
+    "Email": "monza67@hotmail.com",
+    "Elder": true
+  },
+  {
+    "Name": "Ruiz, Joseph",
+    "Phone": "(202) 413-5403",
+    "Address": "6416 Brooke Jane Dr Clinton, MD 20735 ",
+    "Email": "joseph@myruiz.com",
+    "Elder": true
+  },
+  {
+    "Name": "Lewis, Jephthah",
+    "Phone": "(202) 733-0517",
+    "Address": "10106 Wooden Bridge Lane Clinton, MD 20735 ",
+    "Email": "lewisjeff48@gmail.com",
+    "Elder": true
+  }
+]
