@@ -42,10 +42,10 @@ app.get('/', (req, res) => {
         
         let result = []
         result.push( 
-                     {  "   Head": `JSON data`, 
-                        " Search": `${req.query.search}`,
-                        "  RegEx": `RegEx1: ${regex1}  RegEx2: ${regex2}`,
-                        " Extras": ``
+                     {  "  TITLE": `JSON data`, 
+                        " SEARCH": `${req.query.search}`,
+                        "  REGEX": `RegEx1: ${regex1}  RegEx2: ${regex2}`,
+                        " EXTRAS": ``
                      }         
                    )
 
