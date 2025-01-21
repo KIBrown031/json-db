@@ -3,6 +3,8 @@ const fs = require('fs');
 const app = express()
 const port = 3000
 
+app.set('env', 'production')
+
 // logger
 app.use( (req, res, next) => {
     // console.log(`${req.method} ${req.path}`)
