@@ -8,14 +8,6 @@
     "OVERSEER": "DI"
   },
   {
-    "Name": "McNeal, Tim",
-    "Phone": "(202) 368-0083",
-    "Address": "11933 Birchview Drive Clinton, MD 20735 ",
-    "Email": "tim.mcneal@cushwake.com",
-    "Roles": "",
-    "OVERSEER": "KIRKLAND-FSG"
-  },
-  {
     "Name": "Kirkland, Tim",
     "Phone": "(703) 270-8381",
     "Address": "7004 Wade Avenue Clinton, MD 20735 ",
@@ -64,14 +56,6 @@
     "OVERSEER": "VANN-FSG"
   },
   {
-    "Name": "Wren, Timothy",
-    "Phone": "(571) 436-2133",
-    "Address": "#103 2000 Suqoiar Court Woodbridge, VA 22191 ",
-    "Email": "",
-    "Roles": "O",
-    "OVERSEER": "OLD-CONTACTS"
-  },
-  {
     "Name": "Harrison, Takeya",
     "Phone": "(240) 595-9491",
     "Address": "19550 Waters Road Germantown, MD 20874 ",
@@ -80,10 +64,18 @@
     "OVERSEER": "OLD-CONTACTS"
   },
   {
-    "Name": "Hardy, Stephanie",
-    "Phone": "(301) 877-7674",
-    "Address": "6714 Danford Drive Clinton, MD 20735 ",
-    "Email": "",
+    "Name": "McNeal, Tim",
+    "Phone": "(202) 368-0083",
+    "Address": "11933 Birchview Drive Clinton, MD 20735 ",
+    "Email": "tim.mcneal@cushwake.com",
+    "Roles": "",
+    "OVERSEER": "KIRKLAND-FSG"
+  },
+  {
+    "Name": "Igbokwe, Stephen",
+    "Phone": "(301) 388-6172",
+    "Address": "3542 Hummock Place Woodbridge, VA 22192 ",
+    "Email": "si1985@msn.com",
     "Roles": "O",
     "OVERSEER": "OLD-CONTACTS"
   },
@@ -136,10 +128,26 @@
     "OVERSEER": "HOLMES-FSG"
   },
   {
-    "Name": "Igbokwe, Stephen",
-    "Phone": "(301) 388-6172",
-    "Address": "3542 Hummock Place Woodbridge, VA 22192 ",
-    "Email": "si1985@msn.com",
+    "Name": "Logan, Shawnee",
+    "Phone": "(240) 422-4838",
+    "Address": "7903 Whitewater Court Clinton, MD 20735 ",
+    "Email": "",
+    "Roles": "O",
+    "OVERSEER": "OLD-CONTACTS"
+  },
+  {
+    "Name": "Hardy, Stephanie",
+    "Phone": "(301) 877-7674",
+    "Address": "6714 Danford Drive Clinton, MD 20735 ",
+    "Email": "",
+    "Roles": "O",
+    "OVERSEER": "OLD-CONTACTS"
+  },
+  {
+    "Name": "Wren, Timothy",
+    "Phone": "(571) 436-2133",
+    "Address": "#103 2000 Suqoiar Court Woodbridge, VA 22191 ",
+    "Email": "",
     "Roles": "O",
     "OVERSEER": "OLD-CONTACTS"
   },
@@ -158,22 +166,6 @@
     "Email": "wallacetho1006@gmail.com",
     "Roles": "",
     "OVERSEER": "VANN-FSG"
-  },
-  {
-    "Name": "Craven, Tom",
-    "Phone": "(301) 980-4705",
-    "Address": "2114 Minnesota Ave SE Washington, DC 20020 ",
-    "Email": "TomARCraven@verizon.net",
-    "Roles": "",
-    "OVERSEER": ""
-  },
-  {
-    "Name": "Magruder, Weedamell",
-    "Phone": "(301) 325-4325",
-    "Address": "11800 Birchview Court Clinton, MD 20735 ",
-    "Email": "",
-    "Roles": "O",
-    "OVERSEER": "OLD-CONTACTS"
   },
   {
     "Name": "Henderson, Wayne",
@@ -304,12 +296,12 @@
     "OVERSEER": "OLD-CONTACTS"
   },
   {
-    "Name": "Logan, Shawnee",
-    "Phone": "(240) 422-4838",
-    "Address": "7903 Whitewater Court Clinton, MD 20735 ",
-    "Email": "",
-    "Roles": "O",
-    "OVERSEER": "OLD-CONTACTS"
+    "Name": "Craven, Tom",
+    "Phone": "(301) 980-4705",
+    "Address": "2114 Minnesota Ave SE Washington, DC 20020 ",
+    "Email": "TomARCraven@verizon.net",
+    "Roles": "",
+    "OVERSEER": ""
   },
   {
     "Name": "Williams, Sharon",
@@ -334,6 +326,14 @@
     "Email": "sgarrett166@comcast.net",
     "Roles": "PC",
     "OVERSEER": "BROWN-FSG"
+  },
+  {
+    "Name": "Pinkney, Sarah",
+    "Phone": "",
+    "Address": "3036 Hollins Lane Waldorf, MD 20601 ",
+    "Email": "",
+    "Roles": "O",
+    "OVERSEER": "OLD-CONTACTS"
   },
   {
     "Name": "Bell, Paula",
@@ -480,12 +480,12 @@
     "OVERSEER": "BROWN-FSG"
   },
   {
-    "Name": "Headen, Wendy",
-    "Phone": "(301) 728-5410",
-    "Address": "6704 Northgate Parkway Clinton, MD 20735 ",
-    "Email": "wpheaden@gmail.com",
-    "Roles": "",
-    "OVERSEER": "KIRKLAND-FSG"
+    "Name": "Magruder, Weedamell",
+    "Phone": "(301) 325-4325",
+    "Address": "11800 Birchview Court Clinton, MD 20735 ",
+    "Email": "",
+    "Roles": "O",
+    "OVERSEER": "OLD-CONTACTS"
   },
   {
     "Name": ", Pioneers Regular",
@@ -502,14 +502,6 @@
     "Email": "raven.pace@yahoo.com",
     "Roles": "",
     "OVERSEER": "VANN-FSG"
-  },
-  {
-    "Name": "Pinkney, Sarah",
-    "Phone": "",
-    "Address": "3036 Hollins Lane Waldorf, MD 20601 ",
-    "Email": "",
-    "Roles": "O",
-    "OVERSEER": "OLD-CONTACTS"
   },
   {
     "Name": "Carrington, Sandy",
@@ -592,6 +584,14 @@
     "OVERSEER": "VANN-FSG"
   },
   {
+    "Name": "Martinez, Rogelio",
+    "Phone": "(804) 916-0497",
+    "Address": "10408 Laren Ln Clinton, MD 20735 ",
+    "Email": "rogermarti@jwpub.org",
+    "Roles": "",
+    "OVERSEER": ""
+  },
+  {
     "Name": "Alston, Rodney",
     "Phone": "(301) 792-1415",
     "Address": "11614 American Swing Place Clinton, MD 20735 ",
@@ -656,18 +656,18 @@
     "OVERSEER": "OLD-CONTACTS"
   },
   {
-    "Name": "Corbitt, Winter",
-    "Phone": "(240) 486-4175",
-    "Address": "10315 Wood Sorrel Court Upper Marlboro, MD 20772 ",
-    "Email": "",
+    "Name": "Headen, Wendy",
+    "Phone": "(301) 728-5410",
+    "Address": "6704 Northgate Parkway Clinton, MD 20735 ",
+    "Email": "wpheaden@gmail.com",
     "Roles": "",
-    "OVERSEER": "HOLMES-FSG"
+    "OVERSEER": "KIRKLAND-FSG"
   },
   {
-    "Name": "Smith, Yolanda",
-    "Phone": "(240) 463-4691",
-    "Address": "6402 Hickory Bend Clinton, MD 20735 ",
-    "Email": "yolimomarama@gmail.com",
+    "Name": "Credle, Yolanda",
+    "Phone": "(301) 213-0702",
+    "Address": "704 Sero Estates Drive Fort Washington, MD 20744 ",
+    "Email": "",
     "Roles": "O",
     "OVERSEER": "OLD-CONTACTS"
   },
@@ -1112,14 +1112,6 @@
     "OVERSEER": ""
   },
   {
-    "Name": "z023, z023",
-    "Phone": "",
-    "Address": "",
-    "Email": "",
-    "Roles": "",
-    "OVERSEER": ""
-  },
-  {
     "Name": "Bryant, Yvonne",
     "Phone": "(301) 454-9445",
     "Address": "",
@@ -1136,6 +1128,14 @@
     "OVERSEER": "KIRKLAND-FSG"
   },
   {
+    "Name": "Smith, Yolanda",
+    "Phone": "(240) 463-4691",
+    "Address": "6402 Hickory Bend Clinton, MD 20735 ",
+    "Email": "yolimomarama@gmail.com",
+    "Roles": "O",
+    "OVERSEER": "OLD-CONTACTS"
+  },
+  {
     "Name": "z038, z038",
     "Phone": "",
     "Address": "",
@@ -1144,12 +1144,12 @@
     "OVERSEER": ""
   },
   {
-    "Name": "Credle, Yolanda",
-    "Phone": "(301) 213-0702",
-    "Address": "704 Sero Estates Drive Fort Washington, MD 20744 ",
+    "Name": "Corbitt, Winter",
+    "Phone": "(240) 486-4175",
+    "Address": "10315 Wood Sorrel Court Upper Marlboro, MD 20772 ",
     "Email": "",
-    "Roles": "O",
-    "OVERSEER": "OLD-CONTACTS"
+    "Roles": "",
+    "OVERSEER": "HOLMES-FSG"
   },
   {
     "Name": "z039, z039",
