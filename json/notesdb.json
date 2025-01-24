@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Keith's web address",
+    "url": "https://keithibrown.org/mysite.index.html",
+    "note": ""
+  },
+  {
+    "title": "Useful API",
+    "url": "Invoke-RestMethod \"http://xkcd.com/$(Get-Random -min 0 -max 2000)/info.0.json\" | Select-Object title, transcript, alt, img | Format-List",
+    "note": ""
+  },
+  {
+    "title": "Get IP",
+    "url": "(Invoke-RestMethod ipinfo.io/json).ip",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  },
+  {
+    "title": "TODO",
+    "url": "",
+    "note": ""
+  }
+]
