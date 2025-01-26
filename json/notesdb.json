@@ -5,14 +5,19 @@
     "note": ""
   },
   {
+    "title": "ZipCode Data",
+    "url": "http://api.zippopotam.us/us/20601",
+    "note": "Invoke-RestMethod 'http://api.zippopotam.us/us/20735' -DisableKeepAlive"
+  },
+  {
     "title": "Useful API",
     "url": "Invoke-RestMethod \"http://xkcd.com/$(Get-Random -min 0 -max 2000)/info.0.json\" | Select-Object title, transcript, alt, img | Format-List",
-    "note": ""
+    "note": "A webcomic of romance, sarcasm, math, and language"
   },
   {
     "title": "Get IP",
     "url": "(Invoke-RestMethod ipinfo.io/json).ip",
-    "note": ""
+    "note": "Get your external IP address"
   },
   {
     "title": "WTTR.in Weather",
@@ -20,44 +25,39 @@
     "note": "/20772: search by zip code doesnt apper to work"
   },
   {
-    "title": "TODO",
-    "url": "",
-    "note": ""
+    "title": "JSON Simplified",
+    "url": "https://www.youtube.com/watch?v=iiADhChRriM",
+    "note": "Web Dev Simplified"
   },
   {
-    "title": "TODO",
+    "title": "JSON Array: LIST of vaild JSON values",
     "url": "",
-    "note": ""
+    "note": ["","jim",78,"BubbA",true,false,null,{},45.367,{"MYKEY":[]}]
   },
   {
-    "title": "TODO",
+    "title": "JSON is valid JavaScript",
     "url": "",
-    "note": ""
+    "note": "JSON can be assigned to a variable in JavaScript"
   },
   {
-    "title": "TODO",
+    "title": "JSON.parse()",
     "url": "",
-    "note": ""
+    "note": "This will take a 'string' of JSON to produce a JSON Object"
   },
   {
-    "title": "TODO",
+    "title": "JSON.stringify()",
     "url": "",
-    "note": ""
+    "note": "This will take a JSON Object and convert it to a string"
   },
   {
-    "title": "TODO",
+    "title": "WT at Circuit Assembly",
     "url": "",
-    "note": ""
+    "note": ["Marsha","Farah","George","Jean"]
   },
   {
-    "title": "TODO",
+    "title": "Geico Car Insurance",
     "url": "",
-    "note": ""
-  },
-  {
-    "title": "TODO",
-    "url": "",
-    "note": ""
+    "note": "$1991.80 due Feb 15, 2025"
   },
   {
     "title": "TODO",
